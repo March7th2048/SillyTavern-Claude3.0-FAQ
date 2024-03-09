@@ -1,8 +1,14 @@
 # SillyTavern-Claude3.0-FAQ
 FAQ on using Claude 3.0 at SillyTavern.
+
 By March 7th＆东山小红猫＆円円円
 
-PS：进来的先去看连接类报错问题，否则被踹了，概不负责。
+1.clewd网络错误
 
+网络错误，请更换节点后重新尝试，必须为非香港节点。
+![image](pic/1.PNG)
+![image](pic/2.PNG)
+电脑本地部署请先检查服务模式和tun模式是否开启，小地球是否变绿，连接中是否有Tun等。
 
-PS：以下我所提到的报错代码一般处于三个位置：123
+![image](pic/3.PNG)
+![image](pic/4.png)
