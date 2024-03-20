@@ -1,4 +1,4 @@
-# SillyTavern-Claude3.0-FAQ
+# SillyTavern-Claude3.0-FAQ2
 FAQ on using Claude 3.0 at SillyTavern.
 
 By March 7th＆东山小红猫＆円円円
