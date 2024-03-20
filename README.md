@@ -1,7 +1,7 @@
 # SillyTavern-Claude3.0-FAQ
 FAQ on using Claude 3.0 at SillyTavern.
 
-By March 7th＆东山小红猫＆円円円
+By March 7th＆东山小红猫＆円円円＆Contributors
 
 1.clewd网络错误
 
